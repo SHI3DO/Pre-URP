@@ -1,4 +1,7 @@
 # Pre-URP
 Pre-URP
-# env
-Python 3.6.8
+# Env
+Python 3.6.8  
+
+# Others
+15 / KSA 1 / Pre-URP
