@@ -8,7 +8,7 @@ import warnings
 
 warnings.simplefilter("ignore", DeprecationWarning)
 logging.basicConfig(format="%(asctime)s - %(levelname)s — %(funcName)s:%(lineno)d ——— %(message)s",
-                    datefmt='%d.%m.%Y-%H:%M:%S',
+                    datefmt="%d.%m.%Y-%H:%M:%S",
                     level=logging.DEBUG,
                     handlers=[logging.FileHandler("logs.txt", 'w', encoding='UTF-8')])
 
