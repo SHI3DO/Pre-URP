@@ -1,5 +1,4 @@
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A01E.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:12 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -11,8 +10,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A01T.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:12 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:12 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2005-01-19 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:12 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -24,8 +35,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A02E.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:12 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:12 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2005-01-17 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:13 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -37,8 +60,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A02T.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:13 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:13 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-16 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:13 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -50,8 +85,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A03E.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:13 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:13 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-15 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:14 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -63,8 +110,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A03T.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:14 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:14 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-10 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:14 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -76,8 +135,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A04E.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:14 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:14 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-09 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:15 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -89,8 +160,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:27 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A04T.gdf
-15.07.2022-21:00:27 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:15 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:15 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-11 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:15 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -102,8 +185,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A05E.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:15 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:15 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-08 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:16 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -115,8 +210,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A05T.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:16 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:16 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-20 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:17 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -128,8 +235,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A06E.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:17 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:17 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-16 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:17 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -141,8 +260,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A06T.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:17 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:17 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-22 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:18 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -154,8 +285,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A07E.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:18 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:18 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-20 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:18 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -167,8 +310,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A07T.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:18 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:18 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-07 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:19 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -180,8 +335,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A08E.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:19 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:19 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-12-02 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:19 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -193,8 +360,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A08T.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:19 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:19 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-22 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:20 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -206,8 +385,20 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A09E.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:20 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:20 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-18 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:21 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
@@ -219,8 +410,33 @@
  projs: []
  sfreq: 250.0 Hz
 >
-15.07.2022-21:00:28 - INFO — <module>:32 ——— D:/Github/Pre-URP\BCICIV_2a_gdf\A09T.gdf
-15.07.2022-21:00:28 - INFO — <module>:33 ——— <Info | 7 non-empty values
+02.08.2022-16:47:21 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:21 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-23 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:21 - INFO — <module>:40 ——— <Info | 7 non-empty values
+ bads: []
+ ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
+ chs: 25 EEG
+ custom_ref_applied: False
+ highpass: 0.5 Hz
+ lowpass: 100.0 Hz
+ meas_date: 2004-11-16 12:00:00 UTC
+ nchan: 25
+ projs: []
+ sfreq: 250.0 Hz
+>
+02.08.2022-16:47:21 - INFO — <module>:40 ——— ['EEG-Fz', 'EEG-0', 'EEG-1', 'EEG-2', 'EEG-3', 'EEG-4', 'EEG-5', 'EEG-C3', 'EEG-6', 'EEG-Cz', 'EEG-7', 'EEG-C4', 'EEG-8', 'EEG-9', 'EEG-10', 'EEG-11', 'EEG-12', 'EEG-13', 'EEG-14', 'EEG-Pz', 'EEG-15', 'EEG-16', 'EOG-left', 'EOG-central', 'EOG-right']
+02.08.2022-16:47:21 - INFO — <module>:40 ——— <Info | 7 non-empty values
  bads: []
  ch_names: EEG-Fz, EEG-0, EEG-1, EEG-2, EEG-3, EEG-4, EEG-5, EEG-C3, EEG-6, ...
  chs: 25 EEG
